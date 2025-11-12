@@ -1,0 +1,23 @@
+[
+  {
+    "titulo": "El Aleph",
+    "autor": "Jorge Luis Borges",
+    "disponible": true
+  },
+  {},
+  {},
+  {
+    
+  },
+  {},
+  {
+    "titulo": "prueba212",
+    "autor": "asd",
+    "disponible": true
+  },
+  {
+    "titulo": "asd",
+    "autor": "asd",
+    "disponible": false
+  }
+]

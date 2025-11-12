@@ -1,0 +1,50 @@
+[
+  {
+    "titulo": "El Aleph",
+    "autor": "Jorge Luis Borges",
+    "disponible": true,
+    "precio": 25000
+  },
+  {
+    "titulo": "Don Segundo Sombra",
+    "autor": "Ricardo Güiraldes",
+    "disponible": false,
+    "precio": 15000
+  },
+  {
+    "titulo": "Zama",
+    "autor": "Antonio Di Benedetto",
+    "disponible": true,
+    "precio": 30000
+  },
+  {
+    "titulo": "Sobre héroes y tumbas",
+    "autor": "Ernesto Sabato",
+    "disponible": false,
+    "precio": 20000
+  },
+  {
+    "titulo": "Rayuela",
+    "autor": "Julio Cortázar",
+    "disponible": false,
+    "precio": 18000
+  },
+  {
+    "titulo": "Los siete locos",
+    "autor": "Roberto Arlt",
+    "disponible": false,
+    "precio": 22000
+  },
+  {
+    "titulo": "El entenado",
+    "autor": "Juan José Saer",
+    "disponible": true,
+    "precio": 27000
+  },
+  {
+    "titulo": "La invención de Morel",
+    "autor": "Adolfo Bioy Casares",
+    "disponible": true,
+    "precio": 30000
+  }
+]
